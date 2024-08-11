@@ -1,0 +1,394 @@
+.flex{
+	display: flex;
+	background-color: white;
+	position: fixed;
+	padding-bottom: 20px;
+	box-shadow: gray 2px 1px 2px 1px;
+	width: 1500px;
+	margin-left: -17px;
+	padding-top: -10px;
+	margin-top: -10px;
+}
+.foot1{
+	background-color: white;
+}
+
+.o1:hover{
+	color: blue;
+
+}
+.h2a{
+	box-shadow: blue 2px 2px 10px 2px;
+}
+.h2a:hover{
+	box-shadow: none;
+}
+.flex2{
+	display: flex;
+}
+.flex3{
+	display: flex;
+}
+
+.b2{
+	box-shadow: orange 2px 2px 10px 2px;
+	border:none;
+}
+.b2:hover{
+	box-shadow: orange 5px 5px 15px 5px;
+	border:none;	
+}
+.b1{
+	box-shadow: blue 2px 2px 10px 2px;
+	border:none;
+}
+.b1:hover{
+	box-shadow: blue 5px 5px 15px 5px;
+	border:none;
+}
+ekhon arekta
+.foot2{
+	background:url(games.png);
+	margin-left: 100px;
+}
+
+.flex4{
+	display: flex;
+	background-color: #f8f8ff;
+	width: 1000px;
+
+}
+.flex4 div{
+	margin-left: -30px;
+	margin-right: 0px;
+	background-color: ;
+
+}
+.grid{
+	display: grid;
+	grid-template-columns: 200px 200px;
+	grid-row-gap: 40px;
+	grid-column-gap: 140px;
+	border: white 0px outset;
+	margin-bottom: 10px;
+	margin-right: 70px;
+	padding-top: 0px;
+	padding-left: 30px;
+
+}
+
+
+.d1{
+	padding-left: 30px;
+
+}
+.d2{
+	padding-left: 30px;
+	padding-top: 15px;
+}
+.d3{
+	padding-left: 30px;
+}
+
+
+
+h1{
+	padding-left: 20px;
+}
+h3{
+	padding-left: 20px;
+}
+
+p{
+	padding-left: 20px;
+}
+
+.ma{
+	background-color: white;
+	width: 300px;
+
+}
+.ma:hover{
+	box-shadow: lightgray 2px 2px 7px 7px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.mb{
+	background-color: white;
+	width: 300px;
+	margin-left: 200px;
+
+}
+.mb:hover{
+	box-shadow: lightgray 2px 2px 7px 7px;
+	padding-left: 2px;
+	padding-right: 2px;
+
+}
+.mc{
+	background-color: white;
+	width: 300px;
+
+}
+.mc:hover{
+		box-shadow: lightgray 2px 2px 7px 7px;
+		padding: 2px;
+}
+
+
+.my{
+	background: linear-gradient(darkblue,black);
+	width: 300px;
+}
+.my:hover{
+	box-shadow: lightsteelblue 2px 2px 5px 6px;
+}
+.p1{
+	color: white;
+	padding-top: 20px;
+	font-size: 20px;
+}
+.p2{
+	
+	padding-top: 100px;
+	font-size: 20px;
+	border-radius: 50px;
+	border: white 2px outset ;
+	background-color: white;
+	height: 0px;
+	width: 200px;
+	padding-top: 40px;
+	padding-left: 25px;
+	text-align: center;
+	margin-left: 30px;
+	margin-top: 90px;
+	color: blue;
+}
+
+.p2{
+	padding-bottom: 35px;
+	padding-top: 15px;
+	padding-right: 15px;
+}
+.d10{
+	padding-top: 80px;
+}
+.p2:hover{
+	background-color: blue;
+	color: white;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+h3{
+	color: orange;
+}
+h2{
+	color: darkorange;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.v{
+	text-align: center;
+	font-size: 45px;
+	font-family: monospace;
+}
+.ac{
+	float: left;
+}
+span:hover{
+	padding-left: 9px;
+}
+notunda
+.flex5{
+	display: flex;
+	background-color: whitesmoke;
+
+	
+
+
+}
+.flex5 div{
+	background-color: white;
+	margin-left:90px;
+	margin-right:70px ;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color: black;
+	text-align: left;
+	font-size: 20px;
+	padding-right: 100px;
+	padding-left:20px ;
+	padding-bottom:50px ;
+	padding-top:40px ;
+	border: 1px white outset;
+
+	heights: 50px;
+	width: 300px;
+
+}
+.flex5 div:hover{
+	box-shadow: lightgrey 0px 20px 20px;
+}
+.l1{
+	padding-right: 50px;
+}
+.l2{
+	padding-right: 90px;
+}
+.l3{
+	padding-right: 100px;
+}
+li:hover{
+	color: limegreen;
+
+}
+.hd{
+	color: limegreen;
+	padding-left: 20px;
+}
+.h{
+	font-size: 40px;
+	padding-left: 20px;
+
+}
+li{
+	
+	
+}
+.p3{
+	padding-left: 30px;
+}
+.hb{
+	text-align: center;
+	color: blue;
+	font-size: 30px;
+}
+.ha{
+	font-size: 50px;
+	text-align: center;
+}
+.hc{
+	font-size: 30px;
+	padding-left: 20px;
+	border: 5px blue outset;
+	border-radius: 50px;
+	color: blue;
+	margin-top: -20px;
+
+}
+.hc:hover{
+	color: white;
+	background-color: darkblue;
+}
+.he{
+	font-size: 30px;
+	padding-left: 20px;
+	border: 5px blue outset;
+	border-radius: 50px;
+	color: blue;
+	margin-top: 50px;
+}
+.he:hover{
+	color: white;
+	background-color: darkblue;
+}
+.hf{
+	font-size: 30px;
+	padding-left: 20px;
+	border: 5px blue outset;
+	border-radius: 50px;
+	color: blue;
+	margin-top: 100px;
+}
+.hf:hover{
+	color: white;
+	background-color: darkblue;
+}
+.hg{
+	color: deeppink;
+	font-size: 20px;
+}
+.hh{
+	color: orange;
+	font-size: 20px;
+}
+
+.f1:hover{
+	background-color: white;
+	box-shadow: gray 3px 6px 6px 3px;
+}
+.f2:hover{
+	background-color: white;
+	box-shadow: gray 3px 6px 6px 3px;
+}
+.f3:hover{
+	background-color: green;
+	box-shadow: gray 3px 6px 6px 3px;
+}
+
+.m1:hover{
+	background-color: white;
+	box-shadow: gray 3px 6px 6px 3px;
+}
+
+.m2:hover{
+	background-color: whitesmoke;
+	box-shadow: gray 3px 6px 6px 3px;
+
+}
+.f4:hover{
+	background-color: whitesmoke;
+	box-shadow: gray 3px 6px 6px 3px;
+}
+
+.grid2{
+	grid-gap: 30px;
+}
+.img:hover{
+	color: yellowgreen;
+}
+.foot5{
+	background-color: ghostwhite;
+}
+.f{
+	background: url(lol.png);
+}
+.b{
+	margin-left: 650px;
+	background-color: yellowgreen;
+	padding: 10px;
+}
+.b:hover{
+	background-color: greenyellow;
+
+}
+
+.flex8{
+	display: flex;
+}
+.fst{
+	width: 200px;
+	color: white;
+}
+.ai{
+	margin-left: 20px;
+	color: white;
+	text-decoration: none;
+}
+.ai:hover{
+	color: whitesmoke;
+}
+.fr{
+	margin-left: 50px;
+}
+{
+	padding-left: 8px;
+}
+.zeemmam:hover{
+	font-size: 15px;
+	color: deeppink;
+}
+{
+	margin-right: 20px;
+}
+
